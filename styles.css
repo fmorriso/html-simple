@@ -1,0 +1,26 @@
+body {
+    border: 0.3em;
+    border-color: silver;
+    border-style: solid;
+    background-color: mediumpurple;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-italics {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.font-default {
+    font-family: Consolas, Monospaced, Calibri, serif;
+}
+
+.color-white {
+    color: white;
+}
