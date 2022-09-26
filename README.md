@@ -17,7 +17,7 @@ A simple example of using HTML and CSS
    ```HTML
    <link href="styles.css" rel="stylesheet">
    ```
-1. Open ```index.html``` and add the following line between ```html <head>``` and ```html </head>```:
+1. Open ```index.html``` and add the following line between ```html <body>``` and ```html </body>```:
    ```
    Hello, world!
    ```
@@ -26,4 +26,3 @@ A simple example of using HTML and CSS
 
 ## Adding styles for the first time
 TBD
- 
