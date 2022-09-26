@@ -23,4 +23,7 @@ A simple example of using HTML and CSS
    ```
    Save the file.
 1. Refresh the browser that you previously opened to see the change.
-2. 
+
+## Adding styles for the first time
+TBD
+ 
