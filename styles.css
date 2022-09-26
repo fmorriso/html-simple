@@ -1,26 +1,28 @@
+/* approximate DCC High School colors */
 body {
-    border-width: 0.3em;
+    border-width: 0.2rem; /* rem = root em. 1rem = ~16px */
     border-color: silver;
     border-style: solid;
     background-color: mediumpurple;
+}
+
+/* create class that changes the default font with fall-back choice if none of desired choices are available */
+.font-default {
+    font-family: Consolas, Monospaced, Calibri, serif;
 }
 
 .text-center {
     text-align: center;
 }
 
-.text-italics {
-    font-style: italic;
+.color-white {
+    color:white;
 }
 
 .text-bold {
     font-weight: bold;
 }
 
-.font-default {
-    font-family: Consolas, Monospaced, Calibri, serif;
-}
-
-.color-white {
-    color: white;
+.text-italics {
+    font-style: italic;
 }
