@@ -1,1 +1,7 @@
-/* TODO: add styles */
+/* approximate DCC High School colors */
+body {
+    border-width: 2px;
+    border-color: silver;
+    border-style: solid;
+    background-color: mediumpurple;
+}
