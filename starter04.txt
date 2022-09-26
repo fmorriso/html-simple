@@ -6,5 +6,6 @@
   <title>Simple Html Example</title>
 </head>
 <body>
+Hello DCC World!
 </body>    
 </html>
