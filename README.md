@@ -18,11 +18,12 @@ A simple example of using HTML and CSS
    <link href="styles.css" rel="stylesheet">
    ```
 1. Open ```index.html``` and add the following line between ```html <body>``` and ```html </body>```:
+   
    ```
    Hello, world!
    ```
    Save the file.
-1. Refresh the browser that you previously opened to see the change.
+2. Refresh the browser that you previously opened to see the change.
 
 ## Adding styles for the first time
 TBD
