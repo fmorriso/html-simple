@@ -23,7 +23,28 @@ A simple example of using HTML and CSS
    Hello, world!
    ```
    Save the file.
-2. Refresh the browser that you previously opened to see the change.
+1. Refresh the browser that you previously opened to see the change.
 
 ## Adding styles for the first time
-TBD
+1. Open up `styles.css`
+1. Add the following lines:
+   ```css
+   .text-bold {
+    font-weight: bold;
+   }
+
+   .text-italics {
+       font-style: italic;
+   }
+   ```
+1. open up `index.html`
+
+## Deploying to free Firebase host
+
+1. if you have not already done so, install `nodejs` from `nodjs.org`.
+1. install ```firebase-tools``` using ```npm``` 
+1. establish firebase login credentials via ```firebase login```.  This only needs to happen once.
+1. initialize firebase via ```firebase init``` making sure you use a unique prefix, such as ```fpm-``` when it asks for a unique website name.
+
+## Example web site
+https://fpm-html-simple.web.app/
