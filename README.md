@@ -41,7 +41,15 @@ A simple example of using HTML and CSS
    ```html
    <link href="styles.css" rel="stylesheet">
    ```
-1. Open up `index.html` in a browser and verify that the new styles have been applied.
+1. Change the following line from this:
+   ```html
+   <span>This is going to be bold and italics</span>
+   ```
+   to this:
+   ```html
+   <span class="text-bold text-italics">This is going to be bold and italics</span>
+   ```
+2. Open up `index.html` in a browser and verify that the new styles have been applied.
 
 ## Deploying to free Firebase host
 
