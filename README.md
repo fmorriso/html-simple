@@ -37,7 +37,11 @@ A simple example of using HTML and CSS
        font-style: italic;
    }
    ```
-1. open up `index.html`
+1. open up `index.html` and verify the following line appears within the `<head>` area:
+   ```html
+   <link href="styles.css" rel="stylesheet">
+   ```
+1. Open up `index.html` in a browser and verify that the new styles have been applied.
 
 ## Deploying to free Firebase host
 
