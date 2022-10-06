@@ -49,8 +49,12 @@ A simple example of using HTML and CSS
    ```html
    <span class="text-bold text-italics">This is going to be bold and italics</span>
    ```
-2. Open up `index.html` in a browser and verify that the new styles have been applied.
+1. Open up `index.html` in a browser and verify that the new styles have been applied.
 
+## Grid Styles
+
+* [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
+* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 ## Deploying to free Firebase host
 
 1. if you have not already done so, install `nodejs` from `nodjs.org`.

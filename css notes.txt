@@ -1,0 +1,15 @@
+body {
+    border-width: 0.2rem; /* rem = root em. 1rem = ~16px */
+    border-color: silver;
+    border-style: solid;
+    background-color: mediumpurple;
+}
+
+/* create class that changes the default font with fall-back choice if none of desired choices are available */
+.font-default {
+    font-family: Consolas, 'Courier New', Courier, monospace, Calibri, serif;
+}
+
+.text-center {
+    text-align: center;
+}
