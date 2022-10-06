@@ -55,6 +55,8 @@ A simple example of using HTML and CSS
 
 * [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [CSS Grid Layout: The fr Unit](https://www.digitalocean.com/community/tutorials/css-css-grid-layout-fr-unit)
+
 ## Deploying to free Firebase host
 
 1. if you have not already done so, install `nodejs` from `nodjs.org`.
