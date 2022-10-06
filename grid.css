@@ -4,7 +4,10 @@
     column-gap: 1.2rem;
     /* TIP: row-gap + column-gap can be combined as just gap */
     grid-template-columns: repeat(4, 1fr); /* fr = FRactional */
-    background-color: purple;   
+    background-color: purple; 
+    border-color: black;  
+    border-style: solid;
+    border-width: 0.2rem;
 }
 
 .grid-item {
