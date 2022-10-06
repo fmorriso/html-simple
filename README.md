@@ -57,6 +57,9 @@ A simple example of using HTML and CSS
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [CSS Grid Layout: The fr Unit](https://www.digitalocean.com/community/tutorials/css-css-grid-layout-fr-unit)
 * [CSS Grid Layout - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+* [Learn CSS Grid the easy way video](https://www.youtube.com/watch?v=rg7Fvvl3taU)
+* [Learn CSS GitHub repo](https://github.com/kevin-powell/learn-grid-the-easy-way)
+* [Getting started with CSS Grid - video series](https://www.youtube.com/playlist?list=PL4-IK0AVhVjM41-Ezm5tmESVchNEi7aZU)
 
 ## Deploying to free Firebase host
 
