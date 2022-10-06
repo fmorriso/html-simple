@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
-    row-gap: 0.2rem;
-    column-gap: 0.2rem;
+    row-gap: 1.2rem;
+    column-gap: 1.2rem;
     /* TIP: row-gap + column-gap can be combined as just gap */
     grid-template-columns: repeat(4, 1fr); /* fr = FRactional */
     background-color: purple;   
