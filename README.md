@@ -23,7 +23,7 @@ A simple example of using HTML and CSS
    ***DO NOT PERFORM ANY OF THE STEPS BELOW UNTIL YOU ARE CERTAIN THAT YOUR File Explorer IS SHOWING FILE EXTENSIONS***
 
 1.  use notepad or similar to create a plain text file named ```index.html```. **Be very careful** to not accidentally save it as ```index.html.txt``` which is the default action in Windows Notepad. 
-1.  enter the text you see inside __**starter04.txt**__
+1.  enter the text you see inside ***starter04-html.txt***
 1.  open your ```index.html``` in a browser.  This can usually be done by locating the file in Windows Explorer, right-click, choose ```open with ...``` and pick one of the browsers offered.
 If you are having trouble opening `index.html` from File Explorer, try opening a browser and change the address bar to the following, subsituting your directory name for the one shown below:
       ```html
