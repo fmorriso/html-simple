@@ -4,10 +4,13 @@ A simple example of using HTML and CSS
 [HTML Simple](https://github.com/fmorriso/html-simple)
 # Steps
 ## Getting Started - create shell/starter files
-1.  create a new, empty directory
-1.  use notepad or similar to create a plain text file named ```index.html```. **Be very careful** to not accidentally save it as ```index.html.txt``` which is the default action in Windows Notepad. 
-1.  enter the text you see inside __**starter04.txt**__
-1. open your ```index.html``` in a browser.  This can usually be done by locating the file in Windows Explorer, right-click, choose ```open with ...``` and pick one of the browsers offered.
+1.  create a new, empty directory, for example:
+```
+c:\projects\html\html-simple\
+```
+2.  use notepad or similar to create a plain text file named ```index.html```. **Be very careful** to not accidentally save it as ```index.html.txt``` which is the default action in Windows Notepad. 
+3.  enter the text you see inside __**starter04.txt**__
+4. open your ```index.html``` in a browser.  This can usually be done by locating the file in Windows Explorer, right-click, choose ```open with ...``` and pick one of the browsers offered.
 If you are having trouble opening `index.html` from File Explorer, try opening a browser and change the address bar to the following, subsituting your directory name for the one shown below:
 ```html
 file:///C:/projects/HTML/simple/index.html
