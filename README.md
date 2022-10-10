@@ -8,6 +8,15 @@ A simple example of using HTML and CSS
 ```
 c:\projects\html\html-simple\
 ```
+1. ***EXTREMELY IMPORTANT *** Make sure you have `show file extensions` turned on in File Explorer, otherwise you run the risk of creating this:
+```
+index.html.txt
+```
+instead of this:
+```
+index.html
+```
+*** DO NOT PERFORM ANY OF THE STEPS BELOW UNTIL YOU ARE CERTAIN THAT YOUR File Explorer IS SHOWING FILE EXTENSIONS ***
 2.  use notepad or similar to create a plain text file named ```index.html```. **Be very careful** to not accidentally save it as ```index.html.txt``` which is the default action in Windows Notepad. 
 3.  enter the text you see inside __**starter04.txt**__
 4. open your ```index.html``` in a browser.  This can usually be done by locating the file in Windows Explorer, right-click, choose ```open with ...``` and pick one of the browsers offered.
@@ -15,22 +24,22 @@ If you are having trouble opening `index.html` from File Explorer, try opening a
 ```html
 file:///C:/projects/HTML/simple/index.html
 ```
-2. Use Notepad to create a new file named ```styles.css``` __in the same directory as__ ```index.html```.  Add the following line to ```styles.css```:
+1. Use Notepad to create a new file named ```styles.css``` __in the same directory as__ ```index.html```.  Add the following line to ```styles.css```:
    ```HTML
    /* future styles go in here */
    ```
    Save the file.
-3. Open up ```index.html``` and add the following line just below the ```<title>``` line:
+1. Open up ```index.html``` and add the following line just below the ```<title>``` line:
    ```HTML
    <link href="styles-final.css" rel="stylesheet">
    ```
-4. Open ```index.html``` and add the following line between ```<body>``` and ```</body>```:
+1. Open ```index.html``` and add the following line between ```<body>``` and ```</body>```:
    
    ```
    Hello, world!
    ```
    Save the file.
-5. Refresh the browser that you previously opened to see the change.
+1. Refresh the browser that you previously opened to see the change.
 
 ## Adding styles for the first time
 1. Open up `styles.css`
