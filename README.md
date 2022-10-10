@@ -8,7 +8,7 @@ A simple example of using HTML and CSS
       ```
       c:\projects\html\html-simple\
       ```
-1. ***__EXTREMELY IMPORTANT: __*** Make sure you have `show file extensions` turned on in File Explorer, otherwise you run the risk of creating this:
+1. ***EXTREMELY IMPORTANT:*** Make sure you have `show file extensions` turned on in File Explorer, otherwise you run the risk of creating this:
 
       ```
       index.html.txt
@@ -20,7 +20,7 @@ A simple example of using HTML and CSS
       index.html
       ```
 
-   ***___DO NOT PERFORM ANY OF THE STEPS BELOW UNTIL YOU ARE CERTAIN THAT YOUR File Explorer IS SHOWING FILE EXTENSIONS___***
+   ***DO NOT PERFORM ANY OF THE STEPS BELOW UNTIL YOU ARE CERTAIN THAT YOUR File Explorer IS SHOWING FILE EXTENSIONS***
 
 1.  use notepad or similar to create a plain text file named ```index.html```. **Be very careful** to not accidentally save it as ```index.html.txt``` which is the default action in Windows Notepad. 
 1.  enter the text you see inside __**starter04.txt**__
