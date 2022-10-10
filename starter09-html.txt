@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Simple Html Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body class="font-default background-color-primary">
+    <div class="text-center color-white">
+        <h1>Hello, world!</h1>
+        <span>This is going to be bold and italics</span>
+    </div>
+</body>
+</html>
