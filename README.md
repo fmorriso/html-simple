@@ -15,7 +15,7 @@ A simple example of using HTML and CSS
    Save the file.
 1. Open up ```index.html``` and add the following line just below the ```<title>``` line:
    ```HTML
-   <link href="styles.css" rel="stylesheet">
+   <link href="styles-final.css" rel="stylesheet">
    ```
 1. Open ```index.html``` and add the following line between ```<body>``` and ```</body>```:
    
@@ -39,7 +39,7 @@ A simple example of using HTML and CSS
    ```
 1. open up `index.html` and verify the following line appears within the `<head>` area:
    ```html
-   <link href="styles.css" rel="stylesheet">
+   <link href="styles-final.css" rel="stylesheet">
    ```
 1. Change the following line from this:
    ```html
