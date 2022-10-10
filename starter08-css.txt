@@ -1,0 +1,9 @@
+/* Styles go in this separate file with an extension of .css */
+body {
+    background-color: lightskyblue;
+    margin: 0.3rem;
+}
+
+.background-color-primary {
+    background-color: darkorchid;
+}
