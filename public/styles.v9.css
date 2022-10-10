@@ -1,0 +1,33 @@
+body {
+    background-color: lightskyblue;
+    margin: 0.3rem;
+}
+
+.background-color-primary {
+    background-color: darkorchid;
+}
+
+.color-white {
+    color: white;
+}
+
+a {
+    color: white
+}
+
+/* create class that changes the default font with fall-back choice if none of desired choices are available */
+.font-default {
+    font-family: Consolas, Monospaced, Calibri, serif;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-italics {
+    font-style: italic;
+}
