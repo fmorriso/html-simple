@@ -54,7 +54,7 @@ If you are having trouble opening `index.html` from File Explorer, try opening a
 1. Add the following lines:
    ```css
    .text-bold {
-    font-weight: bold;
+       font-weight: bold;
    }
 
    .text-italics {
