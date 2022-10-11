@@ -6,7 +6,7 @@ A simple example of using HTML and CSS
 ## Getting Started - create shell/starter files
 1.  create a new, empty directory, for example:
       ```
-      c:\projects\html\html-simple\
+      c:\projects\html\simple\
       ```
 1. ***EXTREMELY IMPORTANT:*** Make sure you have `show file extensions` turned on in File Explorer, otherwise you run the risk of creating this:
 
