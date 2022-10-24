@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Simple Html Example</title>
-  <link href="styles-final.css" rel="stylesheet">
+  <link href="styles.css" rel="stylesheet">
 </head>
 <body class="font-default background-color-primary">
   <div class="text-center color-white">
@@ -13,7 +13,7 @@
       <span class="text-bold text-italics">This is going to be bold and italics</span>
     </div>
     <h2> 
-      <a href="grid.html" target="_blank">Simple Grid</a>
+      <a href="grid.html" target="_self">Simple Grid</a>
     </h2>
   </div>
 </body>
