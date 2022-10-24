@@ -1,6 +1,6 @@
 /* Styles go in this separate file with an extension of .css */
 body {
-    background-color: lightskyblue;
+    background-color: darkorchid;
     margin: 0.3rem;
 }
 
@@ -8,6 +8,7 @@ body {
 .font-default {
     font-family: Consolas, Monospaced, Calibri, serif;
 }
+
 .background-color-primary {
     background-color: darkorchid;
 }
