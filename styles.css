@@ -4,31 +4,14 @@ body {
     margin: 0.3rem;
 }
 
-a {
-    color: white
-}
-
-/* create class that changes the default font with fall-back choice if none of desired choices are available */
+/* 
+   create class that changes the default font with fall-back choice 
+   if none of desired choices are available 
+*/
 .font-default {
     font-family: Consolas, Monospaced, Calibri, serif;
 }
 
 .background-color-primary {
     background-color: darkorchid;
-}
-
-.color-white {
-    color: white;
-}
-
-.text-bold {
-    font-weight: bold;
-}
-
-.text-center {
-    text-align: center;
-}
-
-.text-italics {
-    font-style: italic;
 }
