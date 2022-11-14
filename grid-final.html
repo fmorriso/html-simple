@@ -8,28 +8,28 @@
 	<link href="grid.css" rel="stylesheet">
 </head>
 <body class="font-default">
+	<div class="color-white text-center">
 	<h1>Simple Grid</h1>
-	<p>A Grid Layout must have a parent element with the <em>display</em> property set to <em>grid</em> or
+		<h3>
+			<a href="https://www.w3schools.com/css/css_grid.asp">About this specific grid</a>
+		</h3>
+		<h3>A Grid Layout must have a parent element with the <em>display</em> property set to <em>grid</em> or
 		<em>inline-grid</em>.
-	</p>
+		</h3>
 
-	<p>Direct child element(s) of the grid container automatically become grid items.</p>
-
-	<div class="grid-container">
-		<div class="grid-item">1</div>
-		<div class="grid-item">2</div>
-		<div class="grid-item grid-row-span-2">3</div>
-		<div class="grid-item">4</div>
-		<div class="grid-item">5</div>
-		<div class="grid-item">6</div>
-		<div class="grid-item">7</div>
-		<div class="grid-item">8</div>
-		<div class="grid-item">9</div>
-		<div class="grid-item grid-col-span-2">10</div>
-		<div class="grid-item">11</div>
+		<h4>Direct child element(s) of the grid container automatically become grid items.</h4>
 	</div>
 
-	<a href="index.html" target="_top">Home</a>
+	<div class="grid-container">
+		<div class="item1 grid-item grid-left-col grid-right-col grid-top-col">Header</div>
+		<div class="item2 grid-item grid-left-col grid-bottom-col">Menu</div>
+		<div class="item3 grid-item">Main</div>
+		<div class="item4 grid-item grid-right-col">Right</div>
+		<div class="item5 grid-item grid-right-col grid-bottom-col">Footer</div>
+	</div>
 
+	<h2 class="text-center">
+	<a href="index.html" target="_top">Home</a>
+	</h2>
 </body>
 </html>
