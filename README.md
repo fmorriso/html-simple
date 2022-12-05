@@ -84,6 +84,7 @@ If you are having trouble opening `index.html` from File Explorer, try opening a
 * [Learn CSS Grid the easy way video](https://www.youtube.com/watch?v=rg7Fvvl3taU)
 * [Learn CSS GitHub repo](https://github.com/kevin-powell/learn-grid-the-easy-way)
 * [Getting started with CSS Grid - video series](https://www.youtube.com/playlist?list=PL4-IK0AVhVjM41-Ezm5tmESVchNEi7aZU)
+* [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ## Deploying to free Firebase host
 
