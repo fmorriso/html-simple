@@ -12,14 +12,10 @@
         <span class="text-bold text-italics">This is going to be bold and italics</span>
     </div>
     <h2>
-        <a href="page1.html" target="_self">Page 1</a>
+      <a href="grid.html" target="_blank">Simple Grid</a>
     </h2>
-    <h2>
-        <a href="grid.html" target="_self">Simple Grid</a>
-    </h2>
-    <h2>
-        <a href="image.html" target="_self">Image Example</a>
-    </h2>
-
+    <div>
+        inline style example
+    </div>
 </body>
 </html>
