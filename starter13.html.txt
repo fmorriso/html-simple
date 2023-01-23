@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<title>Bootstrap demo</title>
+	<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+	      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" rel="stylesheet">
+</head>
+<body>
+<div>
+	<h1>Under Construction</h1>
+	<!-- we will add Bootstrap-specific HTML here as we go along -->
+</div>
+<!--put script tags that need to load at the end of the body section-->
+
+</body>
+</html>
