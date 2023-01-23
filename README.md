@@ -47,7 +47,7 @@ If you are having trouble opening `index.html` from File Explorer, try opening a
       ```
       Save the file.
       
-4. Refresh the browser that you previously opened to see the change.
+1. Refresh the browser that you previously opened to see the change.
 
 ## Adding styles for the first time
 1. Open up `styles.css`
@@ -74,6 +74,16 @@ If you are having trouble opening `index.html` from File Explorer, try opening a
    <span class="text-bold text-italics">This is going to be bold and italics</span>
    ```
 1. Open up `index.html` in a browser and verify that the new styles have been applied.
+## Bootstrap 5
+
+This part follows the example starter html page seen at [Bootstrap Getting Started](https://getbootstrap.com/docs/5.2/getting-started/introduction/).
+
+Files that begin with the prefix `bootstrap-` such as `bootstrap-starter01.html.txt` represent examples of using Bootstrap 5 (5.2.3 when this was first written).
+Those files use a Content Delivery Network (CDN) to deliver the various pieces of style (CSS) and Javascript needed by various features of Bootstrap.
+
+To use one of the examples, either copy the contents of the file to `index.html` or rename the file to `index.html`
+and then open `index.html` in a browser.
+
 
 ## Grid Styles
 
