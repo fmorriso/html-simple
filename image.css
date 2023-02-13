@@ -13,13 +13,7 @@ body {
     /* background-color: dodgerblue; */
 }
 
-.flex-container > div {
-    /* background-color: #f1f1f1; */
-    /* color: white; */
-    /* 
-       width: 100px;
-       height: 100px; 
-    */
-    
+#puppy {
+    width: 33%;
+    height: 33%;
 }
-

@@ -112,3 +112,12 @@ and then open `index.html` in a browser.
 
 ## Example web site
 https://fpm-html-simple.web.app/
+
+## Identifying HTML elements
+
+1. [By unique ID](https://www.w3schools.com/html/html_id.asp)
+1. [By class name](https://www.w3schools.com/html/html_classes.asp)
+
+## Identifying files in HTML
+
+* [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
