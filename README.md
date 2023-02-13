@@ -1,7 +1,10 @@
 # html-simple
 A simple example of using HTML and CSS
 # Location of code
-[HTML Simple](https://github.com/fmorriso/html-simple)
+[HTML Simple](https://www.w3schools.com/html/html_intro.asp)
+# Tutorial references
+* [W3School HTML Tutorial](https://www.w3schools.com/html/default.asp)
+
 # Steps
 ## Getting Started - create shell/starter files
 1.  create a new, empty directory, for example:
